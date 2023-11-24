@@ -1,0 +1,66 @@
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: 'Nunito', sans-serif; 
+    font-family: 'Outfit', sans-serif; 
+    font-family: 'Urbanist', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+    border: 1px;
+    border-radius: 15px;  
+    linear-gradient(to right, #f6ff00, #4e4eff);
+}
+
+table {
+    border: 5px;
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 14px;
+}
+
+td {
+    border: 1px;
+    text-align: center;
+}
+
+.imagen {
+    width: 700px;
+    text-align: center;
+    border: 2px blue;
+    border-radius: 10px;
+}
+
+.fondo {
+    color: rgb(120, 255, 102);
+    font-size: 25px;
+}
+
+ul > li {
+    color: blue;
+}
+
+ol > li {
+    padding: 2px;
+    border: 1px;
+    border-radius: 15px;
+    background-color: rgb(195, 255, 76);
+    text-align: center;
+    width: 30%;
+}
+
+.selectors {
+    padding: 3px;
+    border: 1px;
+    border-radius: 15px;
+    background-color: rgb(69, 94, 255);
+    color: white;
+    text-align: center;
+}
+
+hr {
+    color: blue;
+}
